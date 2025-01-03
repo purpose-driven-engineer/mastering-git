@@ -1,3 +1,4 @@
-# Hello World, Git
+# Hello Team Mates
 
-- Adding a new feature.
+- Let's just roll up the sleeves
+- Adding a new feature
