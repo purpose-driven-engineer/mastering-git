@@ -1,3 +1,4 @@
-# Hello World, Git
+# Hello Ola, Welcome to Git
 
-- Adding a new feature.
+- Time to break some bones
+- Adding a new feature
